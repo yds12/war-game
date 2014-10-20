@@ -1,0 +1,14 @@
+NOVAS FUNCIONALIDADES:
+
+- Quando calcular uma sequência de caminho A,B,C, se está em A e um obstáculo aparece em B, calcular o caminho entre A e C e empilhar na pilha de tarefas.
+
+- Arquivo de mapa: conterá embutido as informações de unidades, etc. Caso deseje usar as unidades/raças/etc do mapa, exportar.
+
+- Fazer checagens em níveis (p. ex. usar distância manhattan antes de aplicar distância euclidiana, para evitar cálculos desnecessários)
+
+- Tentar implementar IA que se mantém no MSD (maximum shooting distance)
+
+- Associar teclas de atalho à unidades
+
+- Função para permitir movimento exploratório (randômico)
+

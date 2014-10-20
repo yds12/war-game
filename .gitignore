@@ -1,0 +1,4 @@
+deb/usr/*
+release/*
+src/game
+src/*.o

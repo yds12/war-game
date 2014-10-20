@@ -1,0 +1,43 @@
+Version and change log:
+
+---- 21/12/2011 ----
+
+0.4.1		Retângulo de seleção e desenho de barras de vida. Seleção de unidades do time OK. Vazamento de memória. FPS: 31 ~ 55. CPU: 78 ~ 96%. Mem: 21,9 ~ 24,9 MB.
+
+---- 21/11/2011 ----
+
+0.4.0		Criando 2400 unidades com 20 de sight. Atualizando e resetando sightmap. Boa performance. FPS: 36 ~ 59. CPU: 78 ~ 86%. Mem: 21,6 MB.
+
+---- 20/11/2011 ----
+
+0.3.4		Primeiras unidades sendo desenhadas, cálculo de sightmap. Update do jogo está percorrendo todas casas do mapa. FPS: 53 ~ 59. CPU: 72 ~ 82%. Mem: 20,3 MB
+
+0.3.3		Known e Sight maps. Imagens escuras no Resource Controller. FPS: 52 ~ 58. CPU: 72 ~ 78%. Mem: 15,6 MB.
+
+---- 16/11/2011 ----
+
+0.3.2		Algoritmo de árvores igual antigo. FPS: 57 ~ 60. CPU: 74 ~ 82%. Mem: 11,7 MB.
+
+---- 15/11/2011 ----
+
+0.3.1		Objetos naturais e adições no algoritmo de geração de mapa. FPS: 40 ~ 56. CPU: 78 ~ 80%. Mem: 11,7 MB.
+
+---- 14/11/2011 ----
+
+0.3.0		Resource Controller melhorada. UnitModel e Unit criadas. Terrain melhorado. getMCN() com segfault. FPS: 56 ~ 60. CPU: 66 ~ 70%. Mem: 5,7 MB.
+
+---- 08/11/2011 ----
+
+0.2.0		Resolvida falha de segmentação. Resource Controller e Options. Makefile melhorado. FPS: 60 ~ 61. CPU: 58 ~ 70%. Mem: 5,5 MB.
+
+---- 04/11/2011 ----
+
+0.1.0		Adaptada à AGL 1.6.0, resolvendo os problemas de performance. FPS fixo. Testes com mapa 1000x1000. Falha de segmentação esporádica. FPS: 57~60. Mem: 1,6 MB. CPU: 70%.
+
+----- 04/09/2011 -----
+
+0.0.2		Detectado o problema de performance no desenho de um número grande de objetos (tiles).
+
+----- 27/08/2011 -----
+
+0.0.1		Versão inicial. Resolver problemas com callback da classe warmap.
