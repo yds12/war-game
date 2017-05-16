@@ -8,7 +8,7 @@
 #include "agl/game.h"
 #include "agl/mouse.h"
 #include "agl/keyboard.h"
-#include "agl/mapping/isometricmap.h"
+#include "agl/isometricmap.h"
 
 #include "support.h"
 #include "terrain.h"

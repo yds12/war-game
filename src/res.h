@@ -4,7 +4,7 @@
 #include "agl/image.h"
 #include "agl/sound.h"
 #include "agl/format.h"
-#include "agl/graphics/graphics.h"
+#include "agl/graphics.h"
 #include "options.h"
 
 using namespace AGL;
